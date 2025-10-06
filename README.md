@@ -157,3 +157,11 @@ Then run:
 ```powershell
 npm run insert
 ```
+
+## Screenshot — MongoDB Compass
+
+Below is a screenshot of the `plp_bookstore.books` collection viewed in MongoDB Compass. This demonstrates the inserted data in a GUI.
+
+![MongoDB Compass - plp_bookstore.books](images/Capture.PNG)
+
+_Screenshot: MongoDB Compass displaying the `plp_bookstore.books` collection._
